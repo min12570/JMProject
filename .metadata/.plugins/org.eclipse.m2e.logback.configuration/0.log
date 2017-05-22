@@ -1,1 +1,2 @@
 2017-05-17 18:24:36,225 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2017-05-22 15:47:16,203 [JavaFX Application Thread] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
